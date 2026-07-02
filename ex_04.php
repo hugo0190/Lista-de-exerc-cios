@@ -15,5 +15,5 @@ function gerarSenha($quantidade)
 
 $tamanho = 10;
 
-echo "Quantidade de caracteres: " . $tamanho . "<br>";
+
 echo "Senha gerada: " . gerarSenha($tamanho);
