@@ -17,7 +17,7 @@ function analisarTexto($texto)
     ];
 }
 
-$texto = "Programar em PHP e muito legal";
+$texto = "Programar em PHP é muito difícil";
 
 $resultado = analisarTexto($texto);
 
