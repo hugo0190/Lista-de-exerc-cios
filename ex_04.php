@@ -16,4 +16,4 @@ function gerarSenha($quantidade)
 $tamanho = 10;
 
 
-echo "Senha gerada: " . gerarSenha($tamanho);
+echo "Senha gerada: " . gerarSenha($tamanho); 
