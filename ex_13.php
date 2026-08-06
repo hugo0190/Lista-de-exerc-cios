@@ -24,7 +24,7 @@ function descriptografarMensagem($texto)
     return $resultado;
 }
 
-$mensagem = "Ola Mundo";
+$mensagem = "Ola Mundo"; 
 
 $mensagemCriptografada = criptografarMensagem($mensagem);
 $mensagemDescriptografada = descriptografarMensagem($mensagemCriptografada);
